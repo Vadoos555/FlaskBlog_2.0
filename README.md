@@ -12,15 +12,15 @@ Features:
 __________________________________________________________________________________________________
 
 Used Technologies:
-    Python 3.11
-    Flask 3.0
-    SQLAlchemy 2.0
-    Flask-Admin 1.6
-    Flask-Bcrypt 1.0
-    Flask-Mail 0.9
-    Flask-WTF 1.2
-    pillow 10.3
-    email_validator 2.1
+   - Python 3.11
+   - Flask 3.0
+   - SQLAlchemy 2.0
+   - Flask-Admin 1.6
+   - Flask-Bcrypt 1.0
+   - Flask-Mail 0.9
+   - Flask-WTF 1.2
+   - pillow 10.3
+   - email_validator 2.1
 __________________________________________________________________________________________________
 
 Install dependencies:
