@@ -1,4 +1,4 @@
-Web application in Python, Flask and SQLAlchemy is a bloп with all the attendant features.
+Web application in Python, Flask and SQLAlchemy is a blog with all the attendant features.
 _________________________________________________________________________________________________
 
 Features:
