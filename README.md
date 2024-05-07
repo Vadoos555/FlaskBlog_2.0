@@ -21,6 +21,7 @@ Used Technologies:
    - Flask-WTF 1.2
    - pillow 10.3
    - email_validator 2.1
+   - Bootstrap 5.1
 __________________________________________________________________________________________________
 
 Install dependencies:
